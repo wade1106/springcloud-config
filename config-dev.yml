@@ -1,2 +1,2 @@
-server:
-  port: 8833
+config:
+  info: This is springcloud-config test

@@ -1,2 +1,2 @@
-server:
-  port: 8866
+config:
+  info: This is springcloud-config pro - v3
